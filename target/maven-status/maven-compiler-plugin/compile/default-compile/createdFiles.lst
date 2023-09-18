@@ -1,0 +1,7 @@
+frameWork\Code\CheckOutPage.class
+frameWork\Code\ConfirmationPage.class
+frameWork\Code\ProductCatalogue.class
+frameWork\AbstractComponent\AbstractComponent.class
+frameWork\Code\CartPage.class
+frameWork\Code\LandingPage.class
+frameWork\AbstractComponent\OrderPage.class
